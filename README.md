@@ -10,7 +10,7 @@ Sou **estudante de Engenharia de Computação** e tenho um forte interesse em ex
   
 ---
 ### Conecte-se comigo
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedro.dev@proton.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedro.dev@proton.me)
 
 ---
 ### Habilidades Técnicas
@@ -38,12 +38,6 @@ Sou **estudante de Engenharia de Computação** e tenho um forte interesse em ex
 </div>
 
 ---
-### Estatísticas do meu GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireneisley&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ireneisley&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
 
 ---
 ### Hobbies e Interesses
