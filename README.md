@@ -38,7 +38,5 @@ Sou **estudante de Engenharia de Computação** e tenho um forte interesse em ex
 </div>
 
 ---
-
----
 ### Hobbies e Interesses
 Para além do universo da tecnologia, dedico meu tempo ao piano e ao ballet, que me oferecem um equilíbrio criativo.
